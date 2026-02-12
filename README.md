@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm The Recruiter (It's only a username, i'm not the real guy from squid game)</h1>
-<h3 align="center">A passionate Lua, nodejs, videogames and C#</h3>
+<h3 align="center">A passionate Lua, Nodejs, UE and Unity</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/U-4RUgK0AUgAAAAd/i%27m-ready-if-you-are-squid-game-season-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Epicaaron85&label=Profile%20views&color=0e75b6&style=flat" alt="Epicaaron85" /> </p>
